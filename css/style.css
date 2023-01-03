@@ -10,8 +10,7 @@ body{
     margin: auto;
 }
 body{
-    /* background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://i.postimg.cc/j584FvRh/1.jpg); */
-    background-image: url("C:/Users/Zacharia.Molefe/OneDrive - Altron Group/Desktop/LaGuenda/img/Sci2.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://i.postimg.cc/tT0NtPDJ/Sci4.jpg);
     height: 100vh;
     -webkit-background-size: cover;
     background-size: cover;
@@ -42,7 +41,7 @@ text-transform: uppercase;
     float: left;
 }
 .logo img{
-    width: 100%;
+    width: 10%;
     padding: 15px 0;
 }
 .welcome-text{
